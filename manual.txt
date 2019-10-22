@@ -1,0 +1,3 @@
+This is the dataset we used to train an ML model that predicts the Energy star score of buildings. 
+This was our Machine Learning course project.
+This can be used to determine whether a building is kinda eco-friendly based on several parameters.
